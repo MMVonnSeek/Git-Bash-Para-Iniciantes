@@ -33,7 +33,7 @@ Siga os guias na ordem abaixo para construir seu conhecimento e sua confiança n
 
 ## Recurso Essencial: Cola de Comandos (Cheat Sheet)
 
-Para referência rápida, acesse nossa tabela de comandos mais usados. Mantenha-a aberta enquanto pratica!
+Para referência rápida, acesse minha tabela de comandos mais usados. Mantenha-a aberta enquanto pratica!
 
 *   [**Git Bash Cheat Sheet**](assets/cheatsheet/GIT_BASH_CHEAT_SHEET.md)
 
