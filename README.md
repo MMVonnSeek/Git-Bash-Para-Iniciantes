@@ -1,4 +1,4 @@
-# Git Bash Para Novatos: Domine a Linha de Comando do Git
+# Git Bash Para Iniciantes: Domine a Linha de Comando do Git
 
 ![Max Müller](https://img.shields.io/badge/Autor-Max%20M%C3%BCller-blue?style=for-the-badge&logo=github)
 ![Git Bash](https://img.shields.io/badge/Git%20Bash-Terminal%20Essencial-black?style=for-the-badge&logo=gnubash)
