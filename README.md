@@ -42,3 +42,10 @@ Para referência rápida, acesse minha tabela de comandos mais usados. Mantenha-
 ## Pratique Diariamente:
 
 A única forma de dominar a linha de comando é praticando. Use o Git Bash para todos os seus projetos, mesmo os mais simples. A repetição transformará os comandos em reflexos.
+
+---
+
+## Autor
+Professor: Max Müller
+
+Se este projeto ajudou você a evoluir, deixe uma ⭐ e compartilhe o conhecimento. Obrigado por usar este repositório!
