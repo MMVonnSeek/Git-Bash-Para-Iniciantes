@@ -4,6 +4,8 @@
 ![Git Bash](https://img.shields.io/badge/Git%20Bash-Terminal%20Essencial-black?style=for-the-badge&logo=gnubash)
 ![Step by Step](https://img.shields.io/badge/Aprendizado-Passo%20a%20Passo-orange?style=for-the-badge&logo=gitbook)
 
+---
+
 ## Por Que o Git Bash é Essencial?
 
 O **Git Bash** (ou qualquer terminal de linha de comando) é a ferramenta que oferece o **controle total** sobre o Git e é o padrão da indústria de desenvolvimento.
